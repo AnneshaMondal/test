@@ -10,7 +10,7 @@ body{
 
 .nav a {
   float: left;
-  color: #d4e09b;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -18,7 +18,7 @@ body{
 }
 
 .nav a:hover {
-  background-color: #ddd;
+  background-color: #d4e09b;
   color: black;
 }
 
