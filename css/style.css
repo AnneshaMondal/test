@@ -25,3 +25,10 @@ body{
 .nav a.active {
   background-color: #a44a3f;
   color: white;
+
+
+.introparagraph{
+  display: inline-block;
+  text-align: center;
+  text-size:2em;
+}
