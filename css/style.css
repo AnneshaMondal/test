@@ -9,6 +9,7 @@ html{
 }
 
 #p1{
+  padding-top: 500px;
   font-size: 2em;
   padding-bottom: 25px;
   font-weight: bold;
