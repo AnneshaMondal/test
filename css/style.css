@@ -72,6 +72,18 @@ text-align: center;
   background-color: #fafadc;
 }
 
+#p9{
+  padding-top: 25px;
+  color: #9ACD32;
+  font-size:1em;
+  font-weight: bold;
+  text-align: left;
+}
+
+#p10{
+border-left: 15px solid #9ACD32;
+background-color: #d0dbb8;
+
 
 
 .nav{
