@@ -15,6 +15,13 @@ html{
   color: #9ACD32;
 }
 
+#p2{
+border-left: 15px solid #9ACD32;
+background-color: #d0dbb8;
+
+}
+
+
 .nav{
   overflow:hidden;
   background: #659dbd;
@@ -49,11 +56,7 @@ html{
   padding-bottom: 30px;
 
 }
-#p2{
-border-left: 15px solid #9ACD32;
-background-color: #d0dbb8;
 
-}
 div.images {
   border: 1px solid #ccc;
 }
