@@ -161,6 +161,7 @@ text-align: center;
 .nav input[type=text]
 {
   padding:6px;
+  padding-top: 6px;
   font-size:17px;
   border: none;
   width: 150px;
