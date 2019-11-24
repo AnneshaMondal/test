@@ -120,6 +120,14 @@ text-align: center;
   background-color: #D0DBB8;
 }
 
+#p13{
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  border-left: 15px solid #FFFF99;
+  background-color: #fafadc;
+}
+
 .nav{
   overflow:hidden;
   background: #659dbd;
