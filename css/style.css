@@ -12,7 +12,9 @@ html{
   font-size: 2em;
   padding-bottom: 25px;
   font-weight: bold;
-  color: #a44a3f;
+  color: #9ACD32;
+  border-style: outset;
+
 }
 
 .nav{
@@ -47,6 +49,9 @@ html{
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 30px;
+  border-style:outset;
+  border-color:#9ACD32;
+  border-radius: 10px;
 }
 
 div.images {
@@ -80,7 +85,7 @@ div.desc {
 
   @media only screen and (max-width: 600px) {
     body {
-      background-color: #c7ac92;
+      background-color:white;
       font-size: 1em;
       }
 
