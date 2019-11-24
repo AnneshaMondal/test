@@ -270,7 +270,8 @@ div.desc {
               padding-left: 15px;
               display:block;
               text-align: right;
-
+              position:relative;
+              padding-bottom: 20px;
             }
 
     }
