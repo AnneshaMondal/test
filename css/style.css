@@ -44,7 +44,7 @@ html{
 
   @media only screen and (max-width: 600px) {
     body {
-      background-color: white;
+      background-color: #c7ac92;
       text-size: 1em;
     }
   }
