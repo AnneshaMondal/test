@@ -49,11 +49,13 @@ html{
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 30px;
-  border-style:outset;
-  border-color:#9ACD32;
-  border-radius: 10px;
-}
 
+}
+.p2{
+border-style:outset;
+border-color:#9ACD32;
+border-radius:10px;
+}
 div.images {
   border: 1px solid #ccc;
 }
