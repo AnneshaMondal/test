@@ -36,9 +36,13 @@ background-color: #d0dbb8;
   text-align: left;
   border-left: 15px solid #9ACD32;
   background-color: #d0dbb8;
-
 }
 
+#p5{
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 100px;
+}
 
 .nav{
   overflow:hidden;
