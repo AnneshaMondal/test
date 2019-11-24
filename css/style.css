@@ -154,6 +154,18 @@ text-align: center;
   color: white;
 }
 
+.nav .login{
+  float:right;
+}
+
+.nav input[type=email]
+{
+  padding:6px;
+  font-size:17px;
+  border: none;
+  width: 150px;
+}
+
 .intro{
   display: inline-block;
   text-align: center;
