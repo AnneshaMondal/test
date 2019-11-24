@@ -271,7 +271,7 @@ div.desc {
               display:block;
               text-align: right;
               position:relative;
-              padding-bottom: 20px;
+              bottom: 20px;
             }
 
     }
