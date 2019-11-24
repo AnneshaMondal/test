@@ -9,7 +9,7 @@ html{
 }
 
 #p1{
-  fpadding-top: 25px;
+  padding-top: 25px;
   color: #9ACD32;
   font-size:1em;
   font-weight: bold;
@@ -36,7 +36,7 @@ background-color: #d0dbb8;
   padding-left: 25px;
   padding-right: 25px;
   text-align: left;
-  border-left: 15px solid #9ACD32;
+  border-left: 15px solid #659dbd;
   background-color: #d0dbb8;
 }
 
