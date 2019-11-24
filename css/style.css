@@ -13,7 +13,6 @@ html{
   padding-bottom: 25px;
   font-weight: bold;
   color: #9ACD32;
-
 }
 
 .nav{
@@ -53,7 +52,7 @@ html{
 #p2{
 border-style:outset;
 border-color:#9ACD32;
-border-radius:10px;
+border-radius:20px;
 }
 div.images {
   border: 1px solid #ccc;
