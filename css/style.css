@@ -260,6 +260,7 @@ div.desc {
             .nav input[type=text]
             {
               border :1px solid blue;
+              padding-left: 400px;
             }
 
     }
