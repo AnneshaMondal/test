@@ -163,7 +163,7 @@ text-align: center;
   padding:6px;
   font-size:17px;
   border: none;
-  width: 150px;
+  width: 130px;
 }
 .nav .login button{
   float:right;
@@ -176,7 +176,7 @@ text-align: center;
 }
 
 .nav .login button:hover{
-  background:red;
+  background:#FFFF99;
 }
 
 
