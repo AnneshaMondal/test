@@ -67,6 +67,7 @@ div.images img {
   height: auto;
   border-style:ridge;
   border-color:#659dbd;
+  border-width:thick;
 }
 
 div.desc {
