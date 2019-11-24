@@ -8,6 +8,10 @@ html{
   background-color: inherit;
 }
 
+.p1{
+  font-size: 2em;
+}
+
 .nav{
   overflow:hidden;
   background: #9cb380;
@@ -80,6 +84,10 @@ div.desc {
       .responsive{
         width:50%;
         margin:6px 0;
+      }
+
+      .p1{
+        font-size:1.5em;
       }
     }
 
