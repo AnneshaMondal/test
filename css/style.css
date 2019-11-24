@@ -106,6 +106,8 @@ div.images img {
   border-style:ridge;
   border-color:#659dbd;
   border-width:thick;
+  padding-left: 75px;
+  padding-right: 75px;
 }
 
 div.desc {
