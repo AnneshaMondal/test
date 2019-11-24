@@ -128,6 +128,14 @@ text-align: center;
   background-color: #fafadc;
 }
 
+#p15{
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  border-left: 15px solid #659dbd;
+  background-color: #c3dbe8;
+}
+
 .nav{
   overflow:hidden;
   background: #659dbd;
