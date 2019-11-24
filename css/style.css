@@ -70,6 +70,8 @@ div.images img {
 div.desc {
   padding: 15px;
   text-align: center;
+  border-style: ridge;
+  border-color: #9ACD32;
 }
 
 * {
