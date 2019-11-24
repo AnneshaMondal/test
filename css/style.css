@@ -36,6 +36,7 @@ background-color: #d0dbb8;
   text-align: left;
   border-left: 15px solid #9ACD32;
   background-color: #d0dbb8;
+
 }
 
 
@@ -106,6 +107,7 @@ div.desc {
   padding: 0 6px;
   float: left;
   width: 24.99999%;
+  padding-bottom: 35px;
 }
 
 
