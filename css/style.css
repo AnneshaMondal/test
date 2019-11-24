@@ -39,9 +39,19 @@ background-color: #d0dbb8;
 }
 
 #p5{
+padding-top: 530px;
+color: #9ACD32;
+font-size:1em;
+font-weight: bold;
+text-align: left;
+}
+
+#p6{
   padding-left: 25px;
   padding-right: 25px;
-  padding-top: 530px;
+  text-align: left;
+  border-left: 15px solid #9ACD32;
+  background-color: #d0dbb8;
 }
 
 
