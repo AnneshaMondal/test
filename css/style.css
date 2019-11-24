@@ -249,6 +249,7 @@ div.desc {
 
     .nav .login{
               float:none;
+              padding-left: 200px;
             }
             .nav a, .navinput[type=text], .nav .login button{
               float:none;
@@ -260,7 +261,7 @@ div.desc {
             .nav input[type=text]
             {
               border :1px solid blue;
-              padding-left: 400px;
+
             }
 
     }
