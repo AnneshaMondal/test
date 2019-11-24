@@ -50,9 +50,9 @@ html{
 
 }
 #p2{
-border-style:outset;
-border-color:#9ACD32;
-border-radius:20px;
+border-left:10px #9ACD32;
+background-color: #d0dbb8;
+
 }
 div.images {
   border: 1px solid #ccc;
