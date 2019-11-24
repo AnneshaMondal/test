@@ -35,7 +35,7 @@ html{
 }
 
 .nav a.active {
-  background-color: #a44a3f;
+  background-color: yellow;
   color: white;
 }
 
