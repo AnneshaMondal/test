@@ -156,6 +156,7 @@ text-align: center;
 
 .nav .login{
   float:right;
+  padding-top: 10px;
 }
 
 .nav input[type=text]
