@@ -8,9 +8,11 @@ html{
   background-color: inherit;
 }
 
-.p1{
+#p1{
   font-size: 2em;
   padding-bottom: 25px;
+  font-weight: bold;
+  color: #a44a3f;
 }
 
 .nav{
