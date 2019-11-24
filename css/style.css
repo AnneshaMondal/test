@@ -41,12 +41,47 @@ html{
   padding-right: 25px;
 }
 
+div.images {
+  border: 1px solid #ccc;
+}
+
+div.images:hover {
+  border: 1px solid #777;
+}
+
+div.images img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+
   @media only screen and (max-width: 600px) {
     body {
       background-color: #c7ac92;
       font-size: 1em;
+      }
+
+      .responsive{
+        width:50%;
+        margin:6px 0;
+      }
     }
-  }
+
 
 
   @media only screen and (min-width: 800px) {
@@ -54,4 +89,8 @@ html{
       background-color: white;
       font-size: 1.5em;
     }
+
+    .responsive{
+      width:100%;
+      }
   }
