@@ -56,6 +56,22 @@ text-align: center;
   background-color: #fafadc;
 }
 
+#p7{
+padding-top: 25px;
+color: #FFFF99;
+font-size:1em;
+font-weight: bold;
+text-align: center;
+}
+
+#p8{
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: left;
+  border-left: 15px solid #FFFF99;
+  background-color: #fafadc;
+}
+
 
 
 .nav{
